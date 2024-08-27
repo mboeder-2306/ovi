@@ -11,7 +11,7 @@
     },
     "version": "0.3.7",
     "maintainer": "Andima Landaluze <andimalo@hotmail.es>",
-    "framework" : "ubuntu-sdk-15.04"
+    "framework" : "ubuntu-sdk-20.04"
 }
 
 
